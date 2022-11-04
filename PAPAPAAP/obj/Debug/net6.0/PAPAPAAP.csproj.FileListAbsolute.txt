@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\PAPAPAAP\PAPAPAAP\bin\Debug\net6.0\PAPAPAAP.exe
+C:\Users\User\source\repos\PAPAPAAP\PAPAPAAP\bin\Debug\net6.0\PAPAPAAP.deps.json
+C:\Users\User\source\repos\PAPAPAAP\PAPAPAAP\bin\Debug\net6.0\PAPAPAAP.runtimeconfig.json
+C:\Users\User\source\repos\PAPAPAAP\PAPAPAAP\bin\Debug\net6.0\PAPAPAAP.dll
+C:\Users\User\source\repos\PAPAPAAP\PAPAPAAP\bin\Debug\net6.0\PAPAPAAP.pdb
+C:\Users\User\source\repos\PAPAPAAP\PAPAPAAP\obj\Debug\net6.0\PAPAPAAP.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\PAPAPAAP\PAPAPAAP\obj\Debug\net6.0\PAPAPAAP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\PAPAPAAP\PAPAPAAP\obj\Debug\net6.0\PAPAPAAP.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\PAPAPAAP\PAPAPAAP\obj\Debug\net6.0\PAPAPAAP.AssemblyInfo.cs
+C:\Users\User\source\repos\PAPAPAAP\PAPAPAAP\obj\Debug\net6.0\PAPAPAAP.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PAPAPAAP\PAPAPAAP\obj\Debug\net6.0\PAPAPAAP.dll
+C:\Users\User\source\repos\PAPAPAAP\PAPAPAAP\obj\Debug\net6.0\refint\PAPAPAAP.dll
+C:\Users\User\source\repos\PAPAPAAP\PAPAPAAP\obj\Debug\net6.0\PAPAPAAP.pdb
+C:\Users\User\source\repos\PAPAPAAP\PAPAPAAP\obj\Debug\net6.0\PAPAPAAP.genruntimeconfig.cache
+C:\Users\User\source\repos\PAPAPAAP\PAPAPAAP\obj\Debug\net6.0\ref\PAPAPAAP.dll
